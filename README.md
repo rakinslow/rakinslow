@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakinslow
-- 👀 I’m interested in learning Java Script
-- 🌱 I’m currently learning Pseudocode ...
-- 💞️ I’m looking to collaborate on activities ...
+- 👀 I am a certified Front End Developer
+- 🌱 I’m currently enrolled to study Phyton
+- 💞️ I’m looking for job search for my skills
 - 📫 How to reach me- email: enna_dj@yahoo.com
 
 <!---
