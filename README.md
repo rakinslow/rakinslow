@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakinslow
 - 👀 I am a certified Front End Web Developer
-- 🌱 I’m currently enrolled to study Phyton to acquire other programming skills.
+- 🌱 I’m currently enrolled to study Python to acquire other programming skills.
 - 💞️ I’m looking for a job to enhance my skills with JavaScript, CSS and HTML
 - 📫 How to reach me- email: enna_dj@yahoo.com
 
